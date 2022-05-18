@@ -1,0 +1,40 @@
+/*reset*/
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+header h1{
+    text-align: center;
+    background-color: coral;
+    color: blue;
+
+}
+.nav{
+    background-color: lightblue;
+}
+.li{
+    color: beige;
+}
+.caja{
+    text-align: center;
+    background-color: yellow;
+    margin: 20px 10px 30px 15px;
+    padding: 10px 5px 10px 70px;
+    width: 200px;
+    height: 100px;
+    border: groove black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+
+}
+nav ul li{
+    list-style-type: none;
+    background-color: brown;
+    display: inline-block;
+    margin: 5px;
+}
+.foot{
+    color: white;
+    background-color: darkolivegreen;
+    width: 80px;
+}
